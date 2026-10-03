@@ -1,0 +1,15 @@
+# Python 3.10+
+jupyter
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+torch                    # 10 CRIM, 21 DeepJoin
+sentence-transformers    # 21 DeepJoin
+gensim                   # 22 EmbDI
+openai                   # 23 GPT-4o
+valentine                # 20 Cupid / COMA / DistributionBased
